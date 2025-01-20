@@ -8,11 +8,11 @@
     <a href="https://spotifyclonebyrv.vercel.app"><strong>Veiw Live Project»</strong></a>
     <br />
     <br />
-    <a href="linkedin.com/in/raghvendra-misra-424803262">linkedIn</a>
+    <a href="linkedin.com/in/imsonuksingh">linkedIn</a>
     ·
-    <a href="https://twitter.com/raghvendra_001">Twitter</a>
+    <a href="https://twitter.com/imsonuksingh">Twitter</a>
     ·
-    <a href="https://instagram.com/xeno.dz">Instagram</a>
+    <a href="https://instagram.com/isonuksingh">Instagram</a>
   </p>
 </div>
 
@@ -94,5 +94,6 @@ With the vision of making it the best of all, my Spotify clone aims to offer a c
 <br></br>
 ## Contact
 
-Raghvendra Misra - [@raghvendra_001](https://twitter.com/raghvendra_001) - itsraghav12@gmail.com
+Dev Sonu Singh ( https://telegram.com/Galaxy_4U - sonukrsdg@gmail.com - shivanshu.ku2000@gmail.com
+workwithsaurav.in
 
