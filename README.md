@@ -95,5 +95,5 @@ With the vision of making it the best of all, my Spotify clone aims to offer a c
 ## Contact
 
 Dev Sonu Singh ( https://telegram.com/Galaxy_4U - sonukrsdg@gmail.com - shivanshu.ku2000@gmail.com
-workwithsaurav.in
+workwithsaurav.in@gmail.com
 
